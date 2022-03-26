@@ -1,0 +1,82 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/Sold/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Soeldner"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "ETH Bibliothek"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      ""
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/Sold/canvas/Sold-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "IMG_3293"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/Sold/IMG3293/full/126,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3024,
+      "width": 4032,
+      "items": [
+        {
+          "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/Sold/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/Sold/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/Sold/IMG3293/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3024,
+                "width": 4032,
+                "service": [
+                  {
+                    "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/Sold/IMG3293",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://gwueth.github.io/annonatate/img/derivatives/iiif/Sold/canvas/Sold-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
