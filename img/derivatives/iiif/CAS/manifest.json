@@ -6,7 +6,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Soeldner"
+      "Schule_Sonterswil"
     ]
   },
   "metadata": [
@@ -18,7 +18,7 @@
       },
       "value": {
         "en": [
-          "Staatsarchiv Zuerich"
+          "ETH Bibliothek"
         ]
       }
     }
@@ -38,17 +38,17 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "IMG_3293"
+          "Com_F63-00868"
         ]
       },
       "thumbnail": [
         {
-          "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/CAS/IMG3293/full/126,/0/default.jpg",
+          "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/CAS/ComF6300868/full/128,/0/default.jpg",
           "type": "thumbnail"
         }
       ],
-      "height": 3024,
-      "width": 4032,
+      "height": 702,
+      "width": 1024,
       "items": [
         {
           "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/CAS/page/p1/1",
@@ -59,14 +59,14 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/CAS/IMG3293/full/full/0/default.jpg",
+                "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/CAS/ComF6300868/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 3024,
-                "width": 4032,
+                "height": 702,
+                "width": 1024,
                 "service": [
                   {
-                    "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/CAS/IMG3293",
+                    "id": "https://gwueth.github.io/annonatate/img/derivatives/iiif/CAS/ComF6300868",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
